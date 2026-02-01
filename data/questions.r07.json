@@ -1,0 +1,1375 @@
+{
+  "meta": {
+    "title": "generated_from_attached_pdfs"
+  },
+  "questions": [
+    {
+      "id": "R07-1-3_gakka_open_q_001",
+      "exam": "R07-1-3_gakka_open",
+      "no": 1,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_001.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_002",
+      "exam": "R07-1-3_gakka_open",
+      "no": 2,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_002.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_003",
+      "exam": "R07-1-3_gakka_open",
+      "no": 3,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_003.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_004",
+      "exam": "R07-1-3_gakka_open",
+      "no": 4,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_004.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "画像"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_005",
+      "exam": "R07-1-3_gakka_open",
+      "no": 5,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_005.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_006",
+      "exam": "R07-1-3_gakka_open",
+      "no": 6,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_006.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_007",
+      "exam": "R07-1-3_gakka_open",
+      "no": 7,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_007.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_008",
+      "exam": "R07-1-3_gakka_open",
+      "no": 8,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_008.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_009",
+      "exam": "R07-1-3_gakka_open",
+      "no": 9,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_009.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_010",
+      "exam": "R07-1-3_gakka_open",
+      "no": 10,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_010.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_011",
+      "exam": "R07-1-3_gakka_open",
+      "no": 11,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_011.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_012",
+      "exam": "R07-1-3_gakka_open",
+      "no": 12,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_012.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_013",
+      "exam": "R07-1-3_gakka_open",
+      "no": 13,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_013.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_014",
+      "exam": "R07-1-3_gakka_open",
+      "no": 14,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_014.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_015",
+      "exam": "R07-1-3_gakka_open",
+      "no": 15,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_015.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_016",
+      "exam": "R07-1-3_gakka_open",
+      "no": 16,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_016.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_017",
+      "exam": "R07-1-3_gakka_open",
+      "no": 17,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_017.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_018",
+      "exam": "R07-1-3_gakka_open",
+      "no": 18,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_018.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_019",
+      "exam": "R07-1-3_gakka_open",
+      "no": 19,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_019.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_020",
+      "exam": "R07-1-3_gakka_open",
+      "no": 20,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_020.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_021",
+      "exam": "R07-1-3_gakka_open",
+      "no": 21,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_021.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_022",
+      "exam": "R07-1-3_gakka_open",
+      "no": 22,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_022.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "アクセシビリティ"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_023",
+      "exam": "R07-1-3_gakka_open",
+      "no": 23,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_023.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_024",
+      "exam": "R07-1-3_gakka_open",
+      "no": 24,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_024.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-1-3_gakka_open_q_025",
+      "exam": "R07-1-3_gakka_open",
+      "no": 25,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-1-3_gakka_open/q_025.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_001",
+      "exam": "R07-2-3_gakka_open",
+      "no": 1,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_001.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_002",
+      "exam": "R07-2-3_gakka_open",
+      "no": 2,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_002.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_003",
+      "exam": "R07-2-3_gakka_open",
+      "no": 3,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_003.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_004",
+      "exam": "R07-2-3_gakka_open",
+      "no": 4,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_004.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_005",
+      "exam": "R07-2-3_gakka_open",
+      "no": 5,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_005.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_006",
+      "exam": "R07-2-3_gakka_open",
+      "no": 6,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_006.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_007",
+      "exam": "R07-2-3_gakka_open",
+      "no": 7,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_007.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_008",
+      "exam": "R07-2-3_gakka_open",
+      "no": 8,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_008.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_009",
+      "exam": "R07-2-3_gakka_open",
+      "no": 9,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_009.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "画像"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_010",
+      "exam": "R07-2-3_gakka_open",
+      "no": 10,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_010.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_011",
+      "exam": "R07-2-3_gakka_open",
+      "no": 11,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_011.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_012",
+      "exam": "R07-2-3_gakka_open",
+      "no": 12,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_012.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_013",
+      "exam": "R07-2-3_gakka_open",
+      "no": 13,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_013.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "ネットワーク"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_014",
+      "exam": "R07-2-3_gakka_open",
+      "no": 14,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_014.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_015",
+      "exam": "R07-2-3_gakka_open",
+      "no": 15,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_015.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_016",
+      "exam": "R07-2-3_gakka_open",
+      "no": 16,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_016.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_017",
+      "exam": "R07-2-3_gakka_open",
+      "no": 17,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_017.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_018",
+      "exam": "R07-2-3_gakka_open",
+      "no": 18,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_018.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_019",
+      "exam": "R07-2-3_gakka_open",
+      "no": 19,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_019.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "アクセシビリティ"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_020",
+      "exam": "R07-2-3_gakka_open",
+      "no": 20,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_020.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_021",
+      "exam": "R07-2-3_gakka_open",
+      "no": 21,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_021.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_022",
+      "exam": "R07-2-3_gakka_open",
+      "no": 22,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_022.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_023",
+      "exam": "R07-2-3_gakka_open",
+      "no": 23,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_023.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_024",
+      "exam": "R07-2-3_gakka_open",
+      "no": 24,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_024.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-2-3_gakka_open_q_025",
+      "exam": "R07-2-3_gakka_open",
+      "no": 25,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-2-3_gakka_open/q_025.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_001",
+      "exam": "R07-3-3_gakka_open",
+      "no": 1,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_001.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_002",
+      "exam": "R07-3-3_gakka_open",
+      "no": 2,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_002.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_003",
+      "exam": "R07-3-3_gakka_open",
+      "no": 3,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_003.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_004",
+      "exam": "R07-3-3_gakka_open",
+      "no": 4,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_004.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "ネットワーク"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_005",
+      "exam": "R07-3-3_gakka_open",
+      "no": 5,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_005.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_006",
+      "exam": "R07-3-3_gakka_open",
+      "no": 6,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_006.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "画像"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_007",
+      "exam": "R07-3-3_gakka_open",
+      "no": 7,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_007.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_008",
+      "exam": "R07-3-3_gakka_open",
+      "no": 8,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_008.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_009",
+      "exam": "R07-3-3_gakka_open",
+      "no": 9,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_009.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_010",
+      "exam": "R07-3-3_gakka_open",
+      "no": 10,
+      "type": "tf",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_010.png",
+      "choices": [
+        "○",
+        "×"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_011",
+      "exam": "R07-3-3_gakka_open",
+      "no": 11,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_011.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_012",
+      "exam": "R07-3-3_gakka_open",
+      "no": 12,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_012.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_013",
+      "exam": "R07-3-3_gakka_open",
+      "no": 13,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_013.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_014",
+      "exam": "R07-3-3_gakka_open",
+      "no": 14,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_014.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_015",
+      "exam": "R07-3-3_gakka_open",
+      "no": 15,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_015.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_016",
+      "exam": "R07-3-3_gakka_open",
+      "no": 16,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_016.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_017",
+      "exam": "R07-3-3_gakka_open",
+      "no": 17,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_017.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_018",
+      "exam": "R07-3-3_gakka_open",
+      "no": 18,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_018.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_019",
+      "exam": "R07-3-3_gakka_open",
+      "no": 19,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_019.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_020",
+      "exam": "R07-3-3_gakka_open",
+      "no": 20,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_020.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_021",
+      "exam": "R07-3-3_gakka_open",
+      "no": 21,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_021.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "CSS"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_022",
+      "exam": "R07-3-3_gakka_open",
+      "no": 22,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_022.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_023",
+      "exam": "R07-3-3_gakka_open",
+      "no": 23,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_023.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "一般"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_024",
+      "exam": "R07-3-3_gakka_open",
+      "no": 24,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_024.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "ネットワーク"
+      ]
+    },
+    {
+      "id": "R07-3-3_gakka_open_q_025",
+      "exam": "R07-3-3_gakka_open",
+      "no": 25,
+      "type": "mc",
+      "promptText": "",
+      "promptImage": "./assets/generated/R07-3-3_gakka_open/q_025.png",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 3,
+      "explanation": "（自動生成）正答はPDFの解答表に基づきます。解説は今後追加可能です。",
+      "tags": [
+        "HTML",
+        "フォーム"
+      ]
+    }
+  ]
+}
